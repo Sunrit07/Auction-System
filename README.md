@@ -3,7 +3,7 @@ Online Auction is a online platform for auction and this project is made using P
 <pre>
 README FILE:
 
-ONLINE AUCTION SYSTEM using PHP, by <a href="https://github.com/vinitKr">VINIT KUMAR</a>
+ONLINE AUCTION SYSTEM using PHP, by <a href="https://github.com/sunrit07">SUNRIT SARKAR</a>
 
 CONTENTS
 I.	HOW TO START
